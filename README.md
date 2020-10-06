@@ -1,2 +1,2 @@
-# replay-litestream-cc948
-Replayed repository commits
+# litestream
+Streaming replication for SQLite.
